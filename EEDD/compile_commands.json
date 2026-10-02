@@ -1,69 +1,69 @@
 [{
-  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Paciente.cpp",
-  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene",
-  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Paciente.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Paciente.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Paciente.cpp",
+  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene",
+  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Paciente.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Paciente.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Cola.cpp",
-  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene",
-  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Cola.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Cola.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoPila.cpp",
+  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene",
+  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoPila.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoPila.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoLista.cpp",
-  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene",
-  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoLista.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoLista.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Pila.cpp",
+  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene",
+  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Pila.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Pila.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoPila.cpp",
-  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene",
-  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoPila.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoPila.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoCola.cpp",
+  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene",
+  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoCola.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoCola.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Controlador.hpp",
-  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene",
-  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Controlador.hpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Controlador.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Cola.cpp",
+  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene",
+  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Cola.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Cola.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoCola.hpp",
-  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene",
-  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoCola.hpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoCola.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\main.cpp",
+  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene",
+  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\main.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Lista.cpp",
-  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene",
-  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Lista.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Lista.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Lista.cpp",
+  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene",
+  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Lista.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Lista.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Pila.cpp",
-  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene",
-  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Pila.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Pila.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Paciente.hpp",
+  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene",
+  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Paciente.hpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Paciente.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\main.cpp",
-  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene",
-  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\main.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\main.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoPila.hpp",
+  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene",
+  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoPila.hpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoPila.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Lista.hpp",
-  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene",
-  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Lista.hpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Lista.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Pila.hpp",
+  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene",
+  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Pila.hpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Pila.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoPila.hpp",
-  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene",
-  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoPila.hpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoPila.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoCola.hpp",
+  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene",
+  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoCola.hpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoCola.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoCola.cpp",
-  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene",
-  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoCola.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoCola.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoLista.cpp",
+  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene",
+  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoLista.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoLista.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Pila.hpp",
-  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene",
-  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Pila.hpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Pila.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoLista.hpp",
+  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene",
+  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoLista.hpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\NodoLista.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Controlador.cpp",
-  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene",
-  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Controlador.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Controlador.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Cola.hpp",
+  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene",
+  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Cola.hpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Cola.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Cola.hpp",
-  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene",
-  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Cola.hpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Cola.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Controlador.cpp",
+  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene",
+  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Controlador.cpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Controlador.cpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoLista.hpp",
-  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene",
-  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoLista.hpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\NodoLista.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Controlador.hpp",
+  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene",
+  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Controlador.hpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Controlador.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Paciente.hpp",
-  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene",
-  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Paciente.hpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\EEDD\\PECLSorianoCentenoIrene\\Paciente.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "file": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Lista.hpp",
+  "directory": "C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene",
+  "command": "clang++ -c \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Lista.hpp\" -o \"C:\\Users\\iiren\\Desktop\\GIC\\3 GIC\\1 Cuatri\\Estructura de datos\\Laboratorio\\TrabajoEEDD\\EEDD\\PECLSorianoCentenoIrene\\Lista.hpp\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }]
