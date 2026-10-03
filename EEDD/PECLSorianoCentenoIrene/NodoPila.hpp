@@ -1,6 +1,6 @@
 #ifndef NODOPILA_HPP
 #define NODOPILA_HPP
-
+#include <iostream>
 #include "Paciente.hpp"
 
 class NodoPila
@@ -13,7 +13,7 @@ private:
 	Paciente* paciente;
 	NodoPila* siguiente;
 
-	friend class Pila
+	friend class Pila;
 };
 
 

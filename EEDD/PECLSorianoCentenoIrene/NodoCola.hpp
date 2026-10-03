@@ -1,5 +1,7 @@
 #ifndef NODOCOLA_HPP
 #define NODOCOLA_HPP
+#include <iostream>
+#include "Paciente.hpp"
 
 class NodoCola
 {

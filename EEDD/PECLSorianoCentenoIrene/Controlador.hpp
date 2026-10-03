@@ -1,5 +1,6 @@
 #ifndef CONTROLADOR_HPP
 #define CONTROLADOR_HPP
+#include <iostream>
 
 class Controlador
 {

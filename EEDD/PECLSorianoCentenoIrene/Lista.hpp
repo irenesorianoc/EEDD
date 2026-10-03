@@ -1,5 +1,6 @@
 #ifndef LISTA_HPP
 #define LISTA_HPP
+#include <iostream>
 
 class Lista
 {

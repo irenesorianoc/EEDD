@@ -8,7 +8,7 @@ using namespace std;
 class Paciente
 {
 public:
-	Paciente();
+	Paciente(bool enfermedad);
 	~Paciente();
 	void setID(int id);
 	int getID();

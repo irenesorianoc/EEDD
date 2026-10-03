@@ -1,5 +1,7 @@
 #ifndef COLA_HPP
 #define COLA_HPP
+#include <iostream>
+#include "NodoCola.hpp"
 
 class Cola
 {
@@ -12,6 +14,7 @@ public:
 	Paciente* verPrimero();
 	int getLongitud();
 	void mostrar();
+	void vaciar();
 	
 private:
 	NodoCola* primero;
